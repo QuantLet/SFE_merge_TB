@@ -10,8 +10,6 @@ See also: SFEbitreeFDiv, SFEbitreePDiv, SFSbitreeNDiv
 
 Author: Awdesch Melzer, Ying Chen
 
-
-
 Author[Matlab]: Ying Chen
 
 Submitted: Tue, June 17 2014 by Thijs Benschop
@@ -31,14 +29,5 @@ Output: binomial trees and price of option
 
 Example: 'User inputs parameters [s0, k, i, sig, t, n, type] like [230, 210, 0.04545, 0.25, 0.5, 5 ,0], [option (1 for call, 0 for put), continuous dividend in percentage (0 for no dividend)] as [1, 0.2], then call price is shown.'
 
-Example[Matlab]: 'User inputs the SFEbitreeCDiv parameters
-[s0, k, i, sig, t, n, type] like[230, 210, 0.04545, 0.25, 0.5, 5 ,0],
-[option (1 for call, 0 for put), continuous dividend in
-percentage (0 for no dividend)] as [1, 0.2], then American 
-call price 21.4566 is shown. 
-
-[s0, k, i, sig, t, n, type] like [1.5, 1.5, 0.09, 0.2, 0.33, 6 ,1],
-[option (1 for call, 0 for put), continuous dividend in
-percentage (0 for no dividend)] as [1, 0.02], then American 
-call price 0.0836 is shown.' 
+Example[Matlab]: 'User inputs the SFEbitreeCDiv parameters [s0, k, i, sig, t, n, type] like[230, 210, 0.04545, 0.25, 0.5, 5 ,0], [option (1 for call, 0 for put), continuous dividend in percentage (0 for no dividend)] as [1, 0.2], then American call price 21.4566 is shown. [s0, k, i, sig, t, n, type] like [1.5, 1.5, 0.09, 0.2, 0.33, 6 ,1], [option (1 for call, 0 for put), continuous dividend in percentage (0 for no dividend)] as [1, 0.02], then American call price 0.0836 is shown.' 
 
