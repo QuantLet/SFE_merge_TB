@@ -10,18 +10,12 @@ See also: SFECIRmle, SFEscomCIR, SFEsimCIR, SFEcir, SFEsimVasi
 
 Author: Awdesch Melzer, Li Sun
 
-
-
 Author[Matlab]: Li Sun
 
 Submitted: Thu, September 27 2012 by Dedy Dwi Prastyo
 
-
-
 Input: 'Parameters of the CIR model (a, b, sigma), time to maturity (in years), risk free rate at time t.'
 
-
-
-Output: Bond price. 
+Output: Bond price
 
 Example: 'For [a, b, sigma, tau, r] = [0.221, 0.020, 0.055, 0.250, 0.020] a bond price of 0.995 is calculated.'
