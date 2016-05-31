@@ -10,17 +10,11 @@ See also: SFECIRmle, SFEscomCIR, SFEsimCIR, SFEcirpricing, SFEsimVasi
 
 Author: Joanna Tomanek, Christian M. Hafner
 
-
-
 Author[Matlab]: Li Sun
 
 Submitted: Fri, June 13 2014 by Felix Jung
 
-
-
 Input: 'Parameters of the CIR model (k,mu,sigma), time horizon, today's short rate.'
-
-
 
 Output: 'Plot of the CIR term structure.
 
