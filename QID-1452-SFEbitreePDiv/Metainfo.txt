@@ -10,8 +10,6 @@ See also: SFEbitreeFDiv, SFEbitreeCDiv, SFSbitreeNDiv
 
 Author: Awdesch Melzer, Ying Chen
 
-
-
 Author[Matlab]: Ying Chen
 
 Submitted: Tue, December 03 2013 by Awdesch Melzer
